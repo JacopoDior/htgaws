@@ -1,5 +1,5 @@
 # htgaws
-R code for the four interactive games described in "How to Gent Away with Statistics: Gamification of Multivariate Statistics"
+R code for the four 2D interactive games described in "How to Gent Away with Statistics: Gamification of Multivariate Statistics"
 
 # Modifying the default data of a game
 To modify the default data of a game:
